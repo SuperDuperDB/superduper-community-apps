@@ -1,0 +1,9 @@
+/data
+/downloads
+/.artifacts
+/models
+/cloudformation
+/.jd
+/jd_templates
+/.syncignore
+/jd.json
